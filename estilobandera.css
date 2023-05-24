@@ -1,0 +1,36 @@
+body{
+    background-color: aqua;
+height: 100vh;
+width: 100%;
+display: flex;
+}
+#verde{
+
+height: 100vh;
+width: 100%;
+background-color: green;
+}
+#blanco
+{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+   
+}
+#rojo
+{
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+}
+#agui{
+    height: 50vh;
+    width: 50vh; 
+}
+*{
+padding: 0px;
+margin: 0px;                                                                                                                                       
+}
